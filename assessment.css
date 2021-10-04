@@ -1,0 +1,25 @@
+body {
+    background-color: #04a6eb;
+    color: #fdffff;
+    margin: 0 auto;
+    width: 500px;
+}
+
+p {
+    font-size: 20px;
+}
+
+button {
+    background-color: #337ab7;
+    border-style: none;
+    color: #fdffff;
+    padding: 5px 20px;
+    width: 30%;
+}
+
+input {
+    border: none;
+    height: 28px;
+    outline: none;
+    width: 50%;
+}
